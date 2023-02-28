@@ -1,2 +1,6 @@
 hey
+<<<<<<< HEAD
 good morning from f2
+=======
+good morning from f1
+>>>>>>> 5fb319ab6bf8e39b4f8c14d3b8257446f4e7d8b9
